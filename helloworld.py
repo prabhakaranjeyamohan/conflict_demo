@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def hello_world(city, state):
     print(f'Hello World {city}, {state}!')
 
